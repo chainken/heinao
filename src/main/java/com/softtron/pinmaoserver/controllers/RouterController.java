@@ -51,7 +51,7 @@ public class RouterController extends CommonController {
 
 	@Override
 	protected void doPost(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
-
+          System.out.println("hello");
 	}
 	
 }
